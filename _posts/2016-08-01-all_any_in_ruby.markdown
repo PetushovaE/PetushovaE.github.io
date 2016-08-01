@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "All? any? in Ruby"
-date:   2016-08-01 13:05:18 +0000
+date:   2016-08-01 09:05:18 -0400
 ---
 
 
