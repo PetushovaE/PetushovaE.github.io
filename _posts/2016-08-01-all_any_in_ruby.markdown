@@ -13,10 +13,14 @@ With all? and any? you can check, if all or any elements of an Array or Hash (or
 (Do all the items in the collection meet the given criteria?)
 The method returns true if the block NEVER returns false or nil.
 
+
 ```
+
 ["ant", "bear", "cat"].all? { |word| word.length >= 3 } #=> true
 ["ant", "bear", "cat"].all? { |word| word.length >= 4 } #=> false
+
 ```
+
 
 **Using all? with Arrays**
 
